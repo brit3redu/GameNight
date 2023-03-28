@@ -1,0 +1,24 @@
+body {
+    background-color: #dad6d6;
+   
+}
+
+footer {
+    background-color: rgb(104, 103, 103);
+    font: normal 90% 'trebuchet ms', arial, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+nav {
+    
+    list-style-type: none;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 1.5em;
+    background-color:rgb(104, 103, 103);
+}
+
+
+
